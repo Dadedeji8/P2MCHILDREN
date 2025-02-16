@@ -194,7 +194,7 @@ figure {
   opacity: 0.9;
 }
 .fh5co-cover.fh5co-cover_2 {
-  height: 500px;
+  height: 600px;
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover.fh5co-cover_2 {
@@ -203,7 +203,7 @@ figure {
   }
 }
 .fh5co-cover .desc {
-  top: 30%;
+  top: 40%;
   position: absolute;
   width: 100%;
   margin-top: -80px;
