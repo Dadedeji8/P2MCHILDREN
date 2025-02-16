@@ -1,0 +1,18 @@
+.about-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-logo {
+    width: 200px;
+}
+
+.main-color {
+    color: #EB7617 !important;
+}
+
+.bg-main-color {
+    color: #EB7617;
+}
