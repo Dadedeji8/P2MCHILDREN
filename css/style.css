@@ -164,7 +164,7 @@ figure {
   bottom: 0;
   right: 0;
   z-index: 1;
-  background: rgba(0, 0, 0, 0.626);
+  background: rgba(36, 36, 36, 0.429);
 }
 
 .fh5co-overlay {
@@ -203,7 +203,7 @@ figure {
   }
 }
 .fh5co-cover .desc {
-  top: 40%;
+  top: 25%;
   position: absolute;
   width: 100%;
   margin-top: -80px;
