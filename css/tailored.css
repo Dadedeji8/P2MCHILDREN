@@ -16,3 +16,9 @@
 .bg-main-color {
     color: #EB7617;
 }
+
+.box-card {
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+}
